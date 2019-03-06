@@ -1,6 +1,8 @@
 {
   "name": "sonidos",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "22718caf"
 }
